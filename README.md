@@ -1,3 +1,8 @@
+ HEAD
+# CLOUD_MERN_FILES
+This repository contains all my practice files of MERN STACK for CSE337 subject(CLOUD COMPUTING)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ 96521e88fcffd08b33ef57607c6bd3716c02b82e
